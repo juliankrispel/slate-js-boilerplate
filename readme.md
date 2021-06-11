@@ -1,5 +1,6 @@
 # Slate.js boilerplate
 
+- Uses parcel for 0-config builds and dev server
 - For quickly starting new projects
 - Uses typescript
 - Unopinionated (no batteries included)
